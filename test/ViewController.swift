@@ -13,6 +13,11 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        //这是一个test的小工程
+        
+        view.backgroundColor = UIColor.brown
+        
+        
     }
 
 
