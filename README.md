@@ -8,5 +8,8 @@
 添加了test的Swift工程
 
 #test 1.3 
+
 这是在master上面，测试使用一下git diff 
+
+在featrue_x的分支上面添加一个model类
 
