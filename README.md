@@ -6,3 +6,7 @@
 
 #test 1.2
 添加了test的Swift工程
+
+#test 1.3 
+在featrue_x的分支上面添加一个model类
+
