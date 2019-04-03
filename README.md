@@ -6,3 +6,7 @@
 
 #test 1.2
 添加了test的Swift工程
+
+#test 1.3 
+这是在master上面，测试使用一下git diff 
+
